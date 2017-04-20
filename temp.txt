@@ -1,0 +1,3 @@
+kasari 113|  suubub merre
+vigala 95 |  suubub kasari
+velise 74 |  suubub vigala
